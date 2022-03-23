@@ -6,9 +6,11 @@
 
 
 
-I'm a driven, self-taught full-stack software engineer and a freelance web developer. I'm passionate about helping people solve problems, and bringing my ideas and dreams to life through beautiful and functional interfaces. 
+By profession, I'm a product development engineer and I'm also working to learn software development using modern tools and languages. Currently learning Python along with the surrounding ecosystem. I also enjoy helping people learn new things and solve problems.
 
-I am also an open-source enthusiast. I have learned so much from the open-source community and I am excited about how it brings developers together from all around the world. 
+I am an open-source enthusiast. I have learned so much from the open-source community and I am excited about how it brings developers together from all around the world. 
+
+My primary projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school).  Using those projects mostly to learn by creating something "real" to hone not only Python skills, but also learning/knowledge for C64 BASIC, Assembly, Pytest, Git, Github, and releasing projects via PyPi.
 
 <a href="https://github.com/mbuhidar">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbuhidar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
