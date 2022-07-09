@@ -13,11 +13,11 @@ I am an open-source enthusiast. I have learned so much from the open-source comm
 My primary projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school).  Using those projects mostly to learn by creating something "real" to hone not only Python skills, but also learning/knowledge for C64 BASIC, Assembly, Pytest, Git, Github, releasing projects on PyPi, and so many other things.
 
 <a href="https://github.com/mbuhidar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbuhidar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbuhidar&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/mbuhidar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mbuhidar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Michael's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chrisbuhidar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Michael's GitHub Stats" />
 </a>
 
 
