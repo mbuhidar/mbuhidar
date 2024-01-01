@@ -9,7 +9,7 @@
 
 
 
-By profession, I'm a product development engineer helping to create construction machines and supporting technologies but I'm also working to learn software development using modern tools and languages. Currently focused on learning Python along with the surrounding ecosystem
+By profession, I'm a product development engineer working to develop construction machines, but I'm also working to learn software development using modern tools and languages. Currently focused on learning Python along with its surrounding ecosystem.
 
 I am an open-source enthusiast. I have learned so much from the open-source community and I am excited about how it brings developers together from all around the world. I also enjoy helping people learn new things and solve problems.
 
@@ -22,19 +22,3 @@ My primary projects relate to modernizing the experience of typing in Commodore 
 <a href="https://github.com/mbuhidar">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mbuhidar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Michael's GitHub Stats" />
 </a>
-
-
-<!--
-**mbuhidar/mbuhidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
