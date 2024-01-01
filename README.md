@@ -1,4 +1,4 @@
-### Hello, I'm <a href="https://michaelbuhidar.com" target="_blank">Michael Buhidar</a> 👋 
+### Hello, I'm <a href="http://mbuhidar.com" target="_blank">Michael Buhidar</a>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mbuhidar)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azramike)
